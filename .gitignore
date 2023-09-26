@@ -1,0 +1,5 @@
+.idea
+manage.py
+hr/migrations
+orm/__init__.py
+hr/__init__.py
